@@ -1,0 +1,4 @@
+interface:
+  display_name: "Makeavideo"
+  short_description: "Create complete videos from your own ideas"
+  default_prompt: "Use $makeavideo to guide me from an idea to a complete rendered video."
